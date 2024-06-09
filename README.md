@@ -51,4 +51,4 @@ Once you start the Fast API Server on your local Machine and start using the API
 
 ## Author
 
-Manjusree Narayan
+Dharshan Gowda
